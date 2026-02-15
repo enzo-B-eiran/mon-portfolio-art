@@ -1,0 +1,30 @@
+
+h3 {
+	font-style:italic;
+	color:blue;
+}
+body{
+	width:600px;
+	color:#838892;
+}
+h2{
+	text-align:center;
+
+}
+p{
+	line-height:150%;
+	text-indent:5px;
+}
+.pair {
+	background-color:#5BBDBF
+}
+.impair {
+	background-color:#FF5850
+}
+.beware {
+	width:300px
+}
+.martiaux {
+	color:red;
+	font-style:italic;
+}
